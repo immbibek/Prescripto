@@ -13,6 +13,7 @@ Before you begin, ensure you have the following installed:
 
 Node.js: Download Node.js
 NPM (comes with Node.js): Download NPM
+
 Installation
 1.Clone the repository:
 git clone https://github.com/yourusername/doctor-appointment-booking.git
@@ -32,6 +33,7 @@ Confirm the appointment.
 
 Code Structure
 Here's the structure of the main components in the project:
+
 src/
 │
 ├── assets/                   # Static assets such as images, logos
